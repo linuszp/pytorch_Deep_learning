@@ -1,6 +1,5 @@
 # pytorch_Deep_learning
 deep learning for image processing including classification and object-detection etc.
-# 一、任务
 ## 1.分类任务
 ### 1.1 VGG系列
     包括VGG16，VGG8等，选择一个实现
